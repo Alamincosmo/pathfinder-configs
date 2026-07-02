@@ -1,6 +1,7 @@
 {
   "boy": {
     "white": {
+      "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/whiteBoy_hjg5na.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/whiteBoy_hjg5na.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/whiteBoy_hjg5na.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -9,6 +10,7 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/whiteBoy_hjg5na.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "black": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/blackBoy_ltkvcc.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/blackBoy_ltkvcc.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/blackBoy_ltkvcc.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -17,6 +19,7 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/blackBoy_ltkvcc.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "blue": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/blueBoy_fboutd.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/blueBoy_fboutd.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/blueBoy_fboutd.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -25,6 +28,7 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/blueBoy_fboutd.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "green": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/greenBoy_nyxsu0.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/greenBoy_nyxsu0.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/greenBoy_nyxsu0.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -33,24 +37,18 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/greenBoy_nyxsu0.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "golden": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenBoy_mccpk0.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenBoy_mccpk0.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenBoy_mccpk0.webp", "spritesheet": "dummy_link", "needXP": 1200 },
       "4": { "rank": "S", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenBoy_mccpk0.webp", "spritesheet": "dummy_link", "needXP": 1800 },
       "5": { "rank": "S+", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenBoy_mccpk0.webp", "spritesheet": "dummy_link", "needXP": 2400 },
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenBoy_mccpk0.webp", "spritesheet": "dummy_link", "needXP": 3500 }
-    },
-    "pink": {
-      "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkBoy_placeholder.webp", "spritesheet": "dummy_link", "needXP": 0 },
-      "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkBoy_placeholder.webp", "spritesheet": "dummy_link", "needXP": 500 },
-      "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkBoy_placeholder.webp", "spritesheet": "dummy_link", "needXP": 1200 },
-      "4": { "rank": "S", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkBoy_placeholder.webp", "spritesheet": "dummy_link", "needXP": 1800 },
-      "5": { "rank": "S+", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkBoy_placeholder.webp", "spritesheet": "dummy_link", "needXP": 2400 },
-      "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkBoy_placeholder.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     }
   },
   "girl": {
     "white": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/whiteGirl_ddrl4d.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/whiteGirl_ddrl4d.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/whiteGirl_ddrl4d.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -59,6 +57,7 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/whiteGirl_ddrl4d.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "black": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924041/blackGirl_tvlt1r.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924041/blackGirl_tvlt1r.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924041/blackGirl_tvlt1r.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -67,6 +66,7 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924041/blackGirl_tvlt1r.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "blue": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/blueGirl_s1wu9a.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/blueGirl_s1wu9a.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/blueGirl_s1wu9a.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -75,6 +75,7 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/blueGirl_s1wu9a.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "green": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/greenGirl_placeholder.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/greenGirl_placeholder.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/greenGirl_placeholder.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -83,6 +84,7 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/greenGirl_placeholder.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "golden": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenGirl_unzbzq.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenGirl_unzbzq.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenGirl_unzbzq.webp", "spritesheet": "dummy_link", "needXP": 1200 },
@@ -91,6 +93,7 @@
       "6": { "rank": "SS", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924042/goldenGirl_unzbzq.webp", "spritesheet": "dummy_link", "needXP": 3500 }
     },
     "pink": {
+       "version" :1,
       "1": { "rank": "C", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkGirl_yaksxu.webp", "spritesheet": "dummy_link", "needXP": 0 },
       "2": { "rank": "B", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkGirl_yaksxu.webp", "spritesheet": "dummy_link", "needXP": 500 },
       "3": { "rank": "A", "profileImage": "https://res.cloudinary.com/dpv4ufsra/image/upload/v1782924043/pinkGirl_yaksxu.webp", "spritesheet": "dummy_link", "needXP": 1200 },
