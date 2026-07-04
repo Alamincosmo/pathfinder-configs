@@ -1,0 +1,30 @@
+{
+  "version" : 1,
+  "ranks" : [
+    {
+      "level" : 1,
+      "rank" : "D",
+      "url" : "https://res.cloudinary.com/karr0jyx/image/upload/v1783190955/Rank_D_xjvmsh.webp"
+    },
+     {
+      "level" : 2,
+      "rank" : "C",
+      "url" : "https://res.cloudinary.com/karr0jyx/image/upload/v1783190955/Rank_C_u7jwn2.webp"
+    },
+     {
+      "level" : 3,
+      "rank" : "B",
+      "url" : "https://res.cloudinary.com/karr0jyx/image/upload/v1783190955/Rank_B_ebwa6p.webp"
+    },
+     {
+      "level" : 4,
+      "rank" : "A",
+      "url" : "https://res.cloudinary.com/karr0jyx/image/upload/v1783190955/Rank_A_vsowsv.webp"
+    },
+     {
+      "level" : 5,
+      "rank" : "S",
+      "url" : "https://res.cloudinary.com/karr0jyx/image/upload/v1783190955/Rank_S_cxeuxh.webp"
+    }
+  ]
+}
