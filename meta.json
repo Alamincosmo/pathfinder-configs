@@ -1,0 +1,15 @@
+{
+  "manifestVersion": 1,
+  "assets": [
+    {
+      "id": "physics",
+      "url": "https://cdn.jsdelivr.net/gh/Alamincosmo/battle@main/physics.json",
+      "version": 1
+    },
+    {
+      "id": "chemistry",
+      "url": "https://cdn.jsdelivr.net/gh/Alamincosmo/battle@main/chemistry.json",
+      "version": 1
+    }
+  ]
+}
